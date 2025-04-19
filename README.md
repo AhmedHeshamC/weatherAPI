@@ -212,12 +212,19 @@ The API implements rate limiting to prevent abuse:
 - 100 requests per 15-minute window per IP address
 - When the limit is exceeded, requests return a 429 status code
 
-## License
-
-ISC
-
-## Author
-Ahmed Hesham
 
 ## Project URLs
 - https://roadmap.sh/projects/weather-api-wrapper-service
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
